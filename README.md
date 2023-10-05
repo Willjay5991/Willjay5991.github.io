@@ -14,7 +14,7 @@
 ----
 
 - fork [王晋东主页仓库]([jindongwang/jindongwang.github.io: Personal website](https://github.com/jindongwang/jindongwang.github.io))
-
+- 修改后的[仓库](https://github.com/Willjay5991/root.github.io)
 - 参照[链接](https://blog.csdn.net/qq_36816662/article/details/128314516) 安装ruby， gem， jekyll等必要的本地文件
 - 修改`_config.yml`中对应的内容
 - 执行` jekyll build`生成对应的静态网页文件`./_site/*`
